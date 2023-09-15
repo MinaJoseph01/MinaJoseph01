@@ -1,9 +1,13 @@
-- 👋" Hi, I’m @MinaJoseph01 I'm a pharmacist and data analyst with a passion for leveraging data to drive insights and improve decision-making.
-My areas of expertise include SQL,Advanced Excel, Power BI, and Tableau, and I'm also certified by Google and Udacity as a data analyst.
- I have experience working with Python and am always eager to learn more about it.
- As a problem solver at heart, I enjoy using my skills to help organizations make data-driven decisions."
+ **Hello!** I'm Mina Joseph👋, a pharmacist and data analyst, dedicated to unlocking insights and enhancing decision-making through data. I bring expertise in:
 
-<!---
-MinaJoseph01/MinaJoseph01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- SQL
+- Advanced Excel
+- Power BI
+- Tableau
+- Python
+
+I'm also certified by Google and Udacity as a data analyst. Alongside these, I have hands-on experience with Python and a perpetual thirst for expanding my knowledge in this area.
+
+As a natural problem solver, I take great satisfaction in using my skills to empower organizations to make informed, data-driven decisions.
+
+[LinkedIn](www.linkedin.com/in/minajosephamir)
