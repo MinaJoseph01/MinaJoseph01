@@ -10,4 +10,4 @@ I'm also certified by Google and Udacity as a data analyst. Alongside these, I h
 
 As a natural problem solver, I take great satisfaction in using my skills to empower organizations to make informed, data-driven decisions.
 
-[LinkedIn](www.linkedin.com/in/minajosephamir)
+[LinkedIn](https://www.linkedin.com/in/minajosephamir/)
